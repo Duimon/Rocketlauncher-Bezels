@@ -28,17 +28,25 @@ For RL the bezel.ini uses the top left coordinate in concert with the bottom rig
 **4K** 
 
 [General]
+
 Bezel Screen Top Left X Coordinate=690
+
 Bezel Screen Top Left Y Coordinate=153
+
 Bezel Screen Bottom Right X Coordinate=3151
+
 Bezel Screen Bottom Right Y Coordinate=2006
 
 **1080** 
 
 [General]
+
 Bezel Screen Top Left X Coordinate=345 
+
 Bezel Screen Top Left Y Coordinate=76 
+
 Bezel Screen Bottom Right X Coordinate=1576 
+
 Bezel Screen Bottom Right Y Coordinate=1003 
 
 Folder structure is also important so I will put an example using the proper convention in the repo.
