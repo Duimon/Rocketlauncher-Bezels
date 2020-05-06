@@ -1,5 +1,5 @@
 # Rocketlauncher-Bezels
-Rocketlauncher bezels derived from my HSM Bezel Reflection Shader Graphics.
+Rocketlauncher bezels derived from my HSM Reflection Shader Graphics.
 
 ## Instructions
 
