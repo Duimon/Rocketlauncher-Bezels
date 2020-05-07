@@ -22,7 +22,7 @@ RA uses the top left coordinate of the veiwport in concert with the dimension of
 
 as stated in my RA Overlay README.
 
-For RL the bezel.ini uses the top left coordinate in concert with the bottom right coordiate and the bezel.ini would read:
+For RL the bezel.ini uses the top left coordinate in concert with the bottom right coordinate and the bezel.ini would read:
 
 
 **4K** 
