@@ -5,7 +5,7 @@ Rocketlauncher bezels derived from my HSM Reflection Shader Graphics.
 
 Since the only differnece between RA Overlay and RL Bezels is folder structure and coordinate systems, until such time as I create bezels for systems that RA doesn't support, I will leave converting the RA Overlays to the end user.
 
-Ra uses the top left coordinate of the veiwport in concert with the dimension of the viewport so the info we need is:
+RA uses the top left coordinate of the veiwport in concert with the dimension of the viewport so the info we need is:
 
 
 **4K**
