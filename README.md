@@ -45,4 +45,4 @@ Bezel Screen Bottom Right Y Coordinate=1003
 
 I believe RL will also scale the bezel to your screen so unless you are really trying to save space there is no reason to use the 1080 version.
 
-Folder structure is important so I will put an example using the proper convention in the repo.
+Folder structure is important so I have put an example using the proper convention in the repo.
